@@ -1,0 +1,168 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.top-banner {
+    background-image: url(donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    text-transform: capitalize;
+    padding-top: 10%;
+    margin-bottom: 150px;
+}
+
+.heading-text {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+}
+
+#text {
+    text-align: center;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: crimson;
+    margin-left: 45%;
+    padding: 10px 40px;
+    border-radius: 30px;
+    color: white;
+    font-size: 700;
+
+}
+
+.donation {
+    margin-bottom: 150px;
+}
+
+.donate-section {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+#mid-heading {
+    font-size: 40px;
+}
+
+.money {
+    display: flex;
+
+}
+
+.box {
+    box-shadow: 10px 10px 10px gray;
+    font-size: 30px;
+    margin-left: 8%;
+    padding: 10px 30px;
+    padding-top: 30px;
+    height: 80px;
+    border: 2px solid gray;
+    border-radius: 10px;
+
+}
+
+#tk {
+    border: 4px solid crimson;
+    color: crimson;
+    background-color: rgba(134, 122, 125, 0.418);
+}
+
+#enter-amount {
+    display: inline-block;
+    width: 50%;
+    padding: 14px 130px 14px 15px;
+    margin-left: 20%;
+    margin-top: 2%;
+    border: 2px solid #f9004d;
+    outline: none;
+    border-radius: 30px;
+}
+
+#payment {
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: 2px solid #f9004d;
+    background-color: #f9004d;
+    color: white;
+
+}
+
+#plan {
+    margin-bottom: 50px;
+}
+
+
+.help-section {
+    display: flex;
+    width: auto;
+    margin-bottom: 100px;
+}
+
+#food {
+    box-shadow: 10px 10px 10px gray;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-top: 30px;
+    background-color: rgba(84, 131, 131, 0.377);
+
+}
+
+#shelter {
+    box-shadow: 10px 10px 10px gray;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-top: 30px;
+    background-color: rgba(97, 71, 122, 0.5);
+
+}
+
+#education {
+    box-shadow: 10px 10px 10px gray;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-top: 30px;
+    background-color: rgba(100, 148, 237, 0.308);
+
+}
+
+.life-depend {
+    display: flex;
+    width: 100%;
+    margin-bottom: 150px;
+}
+
+.life-depend div img {
+    width: 80%;
+    padding-left: 10%;
+
+}
+
+.lives {
+    width: 40%;
+
+}
+
+.on {
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+#email {
+    box-shadow: 10px 10px 50px yellow;
+}
