@@ -163,6 +163,43 @@ body {
     text-transform: capitalize;
 }
 
-#email {
-    box-shadow: 10px 10px 50px yellow;
+.mail {
+    background-color: #8a8a8a59;
+    height: 150px;
+    width: 600px;
+    margin: auto 400px;
+    margin-bottom: 100px;
+}
+
+.inp-email {
+    display: inline-block;
+    width: 50%;
+    padding: 14px 10px 14px 15px;
+    margin-left: 20%;
+    margin-top: 8%;
+    padding-right: 20px;
+    border: 2px solid #f9004d;
+    outline: none;
+    border-radius: 20px;
+}
+
+
+.button1 {
+    background-color: crimson;
+    margin-left: 0%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 700;
+
+}
+
+footer {
+    background-color: rgb(12, 12, 27);
+    color: aliceblue;
+    margin-bottom: 0;
+    height: 200px;
+    text-align: center;
+    padding-top: 40px;
+
 }
